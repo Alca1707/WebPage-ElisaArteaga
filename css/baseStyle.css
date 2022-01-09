@@ -4,6 +4,11 @@ body{
     font-family: 'Roboto' ,sans-serif;
     color: rgb(36,34,39);
 }
+
+.titlesImg{
+    width: 350px;
+}
+
 /***** MENU SECTION*****/
 #menu{
     background-image: url(../img/header_79px.jpg); 
@@ -49,10 +54,6 @@ ion-icon {
     top: 50%;
     left: 60%;
     transform: translate(-70%, -50%);
-}
-
-#inspirationImg{
-    width: 400px;
 }
 
 .fullWidthImg{
