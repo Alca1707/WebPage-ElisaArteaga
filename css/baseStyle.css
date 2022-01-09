@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400&display=swap');
+
+body{
+    font-family: 'Roboto' ,sans-serif;
+    color: rgb(36,34,39);
+}
+/***** MENU SECTION*****/
+#menu{
+    background-image: url(../img/header_79px.jpg); 
+    text-transform: uppercase;
+}
+
+#navbarNavAltMarkup{
+    justify-content: right;
+    padding-right: 20px;
+}
+
+ion-icon {
+    font-size: 24px;
+}
+
+#instaIcon{
+    padding-bottom: 0px !important;
+}
+
+/**** SECTION ABOUT ME****/
+#aboutMe{
+    padding-top: 15vh;
+    padding-bottom: 50px;
+}
+
+.description{
+    font-size: medium;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 0px;
+}
+
+/**** INSPIRATION ****/
+/*#inspirationImg{
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    width: 400px;
+}*/
+
+#inspiration{
+    position: relative;
+    text-align: left; 
+}
+
+#inspirationText{
+    position: absolute;
+    top: 50%;
+    left: 60%;
+    transform: translate(-70%, -50%);
+}
+
+#inspirationImg{
+    width: 400px;
+}
+
+.fullWidthImg{
+    width: 100%;
+    height: auto;
+}
+/*PDF VIEWER*/
+
+.pdfPorta{
+    margin: auto;
+    padding: 0px;
+    display: block;
+    width: 100%;
+    height: 100vh;
+    border-radius: 20px;
+}
+/*MEDIA QUERIES*/
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (max-width: 576px) {
+    
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (max-width: 768px) {
+
+}
+
+/* Large devices (desktops, 992px and up)*/
+@media (max-width: 992px) {
+    #designerPhoto{
+        width: 300px;
+    }
+}
+
+/* X-Large devices (large desktops, 1200px and up)*/
+@media (max-width: 1200px) {
+
+}
+
+/* XX-Large devices (larger desktops, 1400px and up)*/
+@media (max-width: 1400px) {
+
+}
+
