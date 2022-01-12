@@ -1,18 +1,10 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="stylesheet" href="css/bootstrap/bootstrap.min.css">
-        <link rel="stylesheet" type="text/css" href="css/baseStyle.css">
-        <script type="text/javascript" src="js/bootstrap/bootstrap.bundle.min.js"></script>
-        <script type="text/javascript" src="js/baseScript.js"></script>
-        <title>Elisa Arteaga</title>
-    </head>
-    <body>       
       <?php
-        include "menu.html"
+        include "head.html";
+        include "menu.html";
       ?>
+
         <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
             <div class="carousel-indicators">
               <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
@@ -58,7 +50,7 @@
               <p class="description"><br><br>Hola, soy una diseñadora del producto artesanal con un amor por la intervención de superficies y los detalles, me apasiona la creación de productos que puedan hacer aflorar emociones y experiencias. Creo en el valor de los sueños y en la importancia de una dosis diaria de fantasía para afrontar el día a día. Deseo crear alianzas y desarrollar una comunidad alrededor de mujeres empoderadas y colectivos de artistas escénicos que traspasen fronteras. <br><br> Te invito a trabajar juntos, ¿Te animas? </p>              
             </div>
             <div class="">
-              <img id="designerPhoto" src="img/foto-elisa_prueba.jpg" width="400px" height="auto" alt="Elisa photo">
+              <img id="designerPhoto" src="img/Foto-elisa.png" width="400px" height="auto" alt="Elisa photo">
             </div>
           </div>
         </div>
@@ -78,24 +70,7 @@
           </p>
         </div>
 
-        <footer class="containerFooter">
-          <img src="img/Footer.jpg" class="fullWidthImg" alt="Footer background">
-          <div class="containerText">
-            <div class="row">
-              <a href="#" class="col-lg-2" id="logoFooter"><img src="img/EA logo_contorno.svg" alt="Elisa Arteaga logo"></a>
-              <p class="col-lg-2 textFooter">¡Sigamos en contacto!</p>
-              <a href="https://www.instagram.com/era.estudio/" class="col-lg-1 footerImg"><img src="img/instagram icono.svg" alt="Instagram logo"></a>
-              <a href="https://www.linkedin.com/in/elisa-arteaga/" class="col-lg-1 footerImg"><img src="img/linked in icono.svg" alt="LinkedIn logo"></a>
-              <p class="col-lg-5 textFooter">Elisa Arteaga, El Salvador Hello@elisaarteaga.com</p>
-            </div>
-
-            <div class="row">
-              <p id="textFooterCredits">Elisa Arteaga 2022. Designed by juepuya studio</p>
-            </div>
-          </div>
-        </footer>
-      
-        <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
-        <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
-    </body>
+        <?php
+        include "footer.html"
+        ?>
 </html>

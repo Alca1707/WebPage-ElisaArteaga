@@ -7,6 +7,10 @@ body{
     margin: 0px;
 }
 
+.bodyFooter{
+    margin-bottom: 60px;
+}
+
 .titlesImg{
     width: 350px;
 }
@@ -141,7 +145,7 @@ ion-icon {
 /*** CONTACTAME ***/
 #headerContacto{
     margin-top: 5%;
-    margin-bottom: 10%;
+    margin-bottom: 10%; 
 }
 
 #textContact{
@@ -158,6 +162,10 @@ ion-icon {
 
 /**** PROYECTOS SECTION ****/
 
+.rowProyectos img{
+    width: 100%;
+    margin-top: 24px;
+}
 
 /*PDF VIEWER*/
 
