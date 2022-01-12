@@ -11,6 +11,31 @@ body{
     width: 350px;
 }
 
+.fullWidthImg{
+    width: 100%;
+    height: auto;
+}
+
+.espaciado40{
+    margin-top: 40px;
+}
+
+.espaciado80{
+    margin-top: 80px;
+}
+
+.espaciado20{
+    margin-top: 20px;
+}
+
+.noSpacingImg{
+    padding: 0px !important;
+}
+
+.ImgMainBackground{
+    position: relative;    
+}
+
 /***** MENU SECTION*****/
 #menu{
     background-image: url(../img/header_79px.jpg); 
@@ -56,11 +81,6 @@ ion-icon {
     top: 50%;
     left: 60%;
     transform: translate(-70%, -50%);
-}
-
-.fullWidthImg{
-    width: 100%;
-    height: auto;
 }
 
 /****CONCEPT SECTION****/
@@ -130,6 +150,15 @@ ion-icon {
     margin-top: auto;
 }
 
+.verticalAling{
+    display: block;
+    margin-bottom: auto;
+    margin-top: auto;
+}
+
+/**** PROYECTOS SECTION ****/
+
+
 /*PDF VIEWER*/
 
 .pdfPorta{
@@ -150,18 +179,6 @@ ion-icon {
     font-weight: 500;
 }
 
-.espaciado40{
-    margin-top: 40px;
-}
-
-.espaciado80{
-    margin-top: 80px;
-}
-
-.espaciado20{
-    margin-top: 20px;
-}
-
 #wonderwareGallery{
     text-align: center;
 }
@@ -180,14 +197,6 @@ ion-icon {
 }
 
 /**** VENENO ***/
-.noSpacingImg{
-    padding: 0px !important;
-}
-
-.ImgMainBackground{
-    position: relative;    
-}
-
 #venenoText{
     color: #ED4040;
     font-weight: 600;
@@ -277,6 +286,13 @@ ion-icon {
     font-weight: 600;
     text-align: left;
 }
+
+#pasarelaText{
+    font-weight: 600;
+    color: #FF4B5B;
+}
+
+
 /*MEDIA QUERIES*/
 
 /* Small devices (landscape phones, 576px and up)*/
