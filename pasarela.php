@@ -10,16 +10,16 @@
     <div class="container espaciado40"> 
         <div class="row ">
             <img src="img/Pasarela-logo.svg" class="col-lg-6" alt="">
-            <p id="pasarelaText" class="col-lg-5 offset-lg-1">En este jardín de concreto, todos los seres se reúnen: duendes, ondinas, dragones, sílfides y daimones…son los espíritus elementales de la naturaleza; interdimensionales, protectores y destructores. Hemos perdido la capacidad de verlos por lo que se mantienen ocultos a plena vista entre nosotros, esperando el día en que volvamos a formar una unidad y revelarse en todo su esplendor.</p>
+            <p id="pasarelaText" class="col-lg-5 offset-lg-1">En este jardín de concreto, todos los seres se reúnen: duendes, ondinas, dragones, sílfides y daimones… son los espíritus elementales de la naturaleza; interdimensionales, protectores y destructores. Hemos perdido la capacidad de verlos por lo que se mantienen ocultos a plena vista entre nosotros, esperando el día en que volvamos a formar una unidad y revelarse en todo su esplendor.</p>
         </div>
     </div>
 
     <div class="espaciado40 container-fluid">
         <div class="row">
-            <img src="img/Pasarela_02.jpg" class="col-lg-3 col-md-3 col-sm-3 ps-0" alt="">
-            <img src="img/Pasarela_03.jpg" class="col-lg-3 col-md-3 col-sm-3" alt="">
-            <img src="img/Pasarela_04.jpg" class="col-lg-3 col-md-3 col-sm-3" alt="">
-            <img src="img/Pasarela_05.jpg" class="col-lg-3 col-md-3 col-sm-3 pe-0" alt="">
+            <img src="img/Pasarela_02.jpg" class="col-lg-3 col-md-3 col-sm-3 col-3 ps-0" alt="">
+            <img src="img/Pasarela_03.jpg" class="col-lg-3 col-md-3 col-sm-3 col-3" alt="">
+            <img src="img/Pasarela_04.jpg" class="col-lg-3 col-md-3 col-sm-3 col-3" alt="">
+            <img src="img/Pasarela_05.jpg" class="col-lg-3 col-md-3 col-sm-3 col-3 pe-0" alt="">
         </div>
     </div>
 
