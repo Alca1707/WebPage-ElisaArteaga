@@ -220,6 +220,7 @@ ion-icon {
 #lightBlueText{
     color: #A3BAFF;
     font-weight: 500;
+    margin-bottom: 0px;
 }
 
 #wonderwareGallery{
@@ -492,6 +493,7 @@ ion-icon {
     #menu{
         background-image: url(../img/header_movil_01.jpg); 
         text-align: center;
+        font-weight: 300;
     }
 
     a.nav-link{

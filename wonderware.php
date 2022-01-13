@@ -43,7 +43,7 @@
                 - taza / cup - (200 ml) / 12 x 6 x 12 cm<br>
                 - tetera / teapot - (500 ml / 1.5 lt) / 12 x 23 x 12 cm</p>
             <p class="col-lg-6 col-md-6 noMarginBottom">
-                - depósito para leche / milk pot - (150 ml) / 8 x 9 x 8 cm<br>
+                - depósito de leche / milk pot - (150 ml) / 8 x 9 x 8 cm<br>
                 - azucarera / sugar bowl -  (x ml) / 9 x 10 x 9 cm<br>
                 - cuchara / spoon - (5 ml) / 3 x 14 x 1 cm</p>
         </div>
