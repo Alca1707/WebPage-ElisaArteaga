@@ -5,7 +5,7 @@
         include "menu.html";
     ?>
 
-    <div class="ImgMainBackground">
+    <div class="ImgMainBackground row">
         <img src="img/tlaloquines_01.png" class="fullWidthImg" alt="">
         <p class="col-lg-3"><b>DISEÑO EMOCIONAL</b><br><br>Juego de cuatro regaderas para plantas pequeñas dirigidas a personas que disfrutan de la jardinería.</p>
         <p class="col-lg-3"><b>DETALLES TÉCNICOS</b><br><br>Piezas elaboradas en arcilla blanca. Cada pieza posee una configuración de agujeros en la base.</p>

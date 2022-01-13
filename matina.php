@@ -20,12 +20,12 @@
         <div class="row">
             <p id="procesoMatina">Proceso</p>
         </div>
-        <div class="row">
-            <div class="col-lg-2"><img src="img/Matina_03.jpg" alt=""><p>A.PROCESO DE TEJIDO</p></div>
-            <div class="col-lg-2"><img src="img/Matina_04.jpg" alt=""><p>B.PRIMERA PIEZA DE TEJIDO</p></div>
-            <div class="col-lg-2"><img src="img/Matina_05.jpg" alt=""><p>C.SEGUNDA PIEZA DE TEJIDO</p></div>
-            <div class="col-lg-2"><img src="img/Matina_06.jpg" alt=""><p>D.PIEZA TEJIDA EN TELAR DE TAPICERÍA</p></div>
-            <div class="col-lg-2"><img src="img/Matina_07.jpg" alt=""><p>E.DETALLE DEL TEJIDO</p></div>       
+        <div class="row rowMatina">
+            <div class="col-lg-auto"><img src="img/Matina_03.jpg" alt=""><p>A.PROCESO DE TEJIDO</p></div>
+            <div class="col-lg-auto"><img src="img/Matina_04.jpg" alt=""><p>B.PRIMERA PIEZA DE TEJIDO</p></div>
+            <div class="col-lg-auto"><img src="img/Matina_05.jpg" alt=""><p>C.SEGUNDA PIEZA DE TEJIDO</p></div>
+            <div class="col-lg-auto"><img src="img/Matina_06.jpg" alt=""><p>D.PIEZA TEJIDA EN TELAR DE TAPICERÍA</p></div>
+            <div class="col-lg-auto"><img src="img/Matina_07.jpg" alt=""><p>E.DETALLE DEL TEJIDO</p></div>       
         </div>
     </div>
 
