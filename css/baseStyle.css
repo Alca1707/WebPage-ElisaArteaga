@@ -424,6 +424,15 @@ ion-icon {
         left: 0%;
         transform: translate(0%, 0%);       
     }
+
+    /*PULSE*/
+    #pulseLogo{
+        width: 80px;
+    }
+
+    #pulseDescription{
+        margin-top: 40px;
+    }
 }
 
 /* Large devices (desktops, 992px and up)*/
@@ -461,6 +470,10 @@ ion-icon {
         margin-right: auto;
     }
 
+        /*PULSE*/
+    #pulseLogo{
+        width: 110px;
+    }
 }
 
 /* X-Large devices (large desktops, 1200px and up)*/
