@@ -368,6 +368,11 @@ ion-icon {
         margin-left: auto;
         margin-right: auto;
     }
+
+    /*PASARELA*/
+    #pasarelaText{
+        margin-top: 25px;
+    }
 }
 
 /* Medium devices (tablets, 768px and up)*/
