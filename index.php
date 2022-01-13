@@ -48,10 +48,10 @@
             <div class=""> 
               <img src="img/sobre mi-ELISA ARTEAGA_TXT.svg" class="titlesImg" alt="Sobre mi">
               <p class="description"><br><br>Hola, soy una diseñadora del producto artesanal con un amor por la intervención de superficies y los detalles, me apasiona la creación de productos que puedan hacer aflorar emociones y experiencias. Creo en el valor de los sueños y en la importancia de una dosis diaria de fantasía para afrontar el día a día. Deseo crear alianzas y desarrollar una comunidad alrededor de mujeres empoderadas y colectivos de artistas escénicos que traspasen fronteras. <br><br> Te invito a trabajar juntos, ¿Te animas? </p>              
-              <a href="Elisa-Arteaga_CV_SP .pdf" download="Elisa-Arteaga-CV"><img src="img/Boton_CV.png" class="col-lg-7 espaciado40" alt=""></a>
+              <a href="Elisa-Arteaga_CV_SP .pdf" download="Elisa-Arteaga-CV"><img src="img/Boton_CV.png" class="col-lg-7 col-md-5 col-sm-6 col-7 espaciado40" alt=""></a>
             </div>
-            <div id="photoElisa">
-              <img id="designerPhoto" src="img/Foto-elisa.png" width="400px" height="auto" alt="Elisa photo">
+            <div id="photoElisa" class="justify-content-center">
+              <img id="designerPhoto" src="img/Foto-elisa.png" width="auto" height="400px" alt="Elisa photo">
             </div>
           </div>
         </div>
@@ -64,9 +64,9 @@
           </div>         
         </div>
 
-        <div id="concept">
+        <div id="concept" class="">
           <img src="img/ONIRISCENCIA_TXT.svg" id="conceptImg" class="titlesImg" alt="Oniriscencia">
-          <p id="conceptText"> <br><br>En este mi ser que es mi mundo habita otro ser invisible que con frecuencia se apodera de mí. Se pasea por mis sueños más fantásticos aquellos a los que solo se accede a través del portal de la imaginación, estos sueños que provienen desde lo más profundo traen mensajes del espíritu, de ese mundo interior que ha sido heredado de generación en generación.</p>
+          <p class="col-lg-4 col-md-8 col-sm-9 col-10 centerText"><br><br>En este mi ser que es mi mundo habita otro ser invisible que con frecuencia se apodera de mí. Se pasea por mis sueños más fantásticos aquellos a los que solo se accede a través del portal de la imaginación, estos sueños que provienen desde lo más profundo traen mensajes del espíritu, de ese mundo interior que ha sido heredado de generación en generación.</p>
         </div>
 
         <?php
