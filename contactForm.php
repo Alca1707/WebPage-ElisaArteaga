@@ -7,7 +7,7 @@
 
     <div class="container bodyFooter"> 
         <div id="headerContacto" class="row">
-            <img src="img/Contactanos.svg" class="col-lg-4" alt="">
+            <img src="img/Contactanos.svg" class="col-lg-4 col-md-5 col-sm-8 col-7" alt="">
         </div>
         <div class="row">
             <div class="col-lg-4" id="textContact">
@@ -56,7 +56,7 @@
                         <textarea class="form-control" aria-label="With textarea" name="Message"></textarea>
                     </div>
 
-                    <button type="submit" class="btn"><img src="img/Boton_ENVIAR.png" class="col-lg-6" alt=""></button>
+                    <button type="submit" class="btn"><img src="img/Boton_ENVIAR.png" class="col-lg-6 col-md-7 col-sm-8 col-8" alt=""></button>
                 </form>
             </div>
         </div>  

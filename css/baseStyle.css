@@ -166,8 +166,8 @@ ion-icon {
 
 /*** CONTACTAME ***/
 #headerContacto{
-    margin-top: 5%;
-    margin-bottom: 5%; 
+    margin-top: 80px;
+    margin-bottom: 60px;
 }
 
 #textContact{
@@ -191,6 +191,11 @@ ion-icon {
 
 #btnsfancy button{
     background-color: white;
+    margin-top: 30px;
+}
+
+#btnsfancy:focus{
+    box-shadow: none;
 }
 
 #btnsfancy button:first-child{
@@ -403,6 +408,12 @@ ion-icon {
         padding-top: 0px;
     }
 
+    /*CONTACTO*/
+    #headerContacto{
+        margin-top: 50px;
+        margin-bottom: 10px;
+    }    
+
     /*MATINA*/
     .matinaTextOver{
         position: static;
@@ -414,6 +425,13 @@ ion-icon {
         margin-bottom: 0px;
         margin-left:auto;
         margin-right: auto;
+    }
+
+    #matinaText{
+        display: block ;
+        margin-left:auto ;
+        margin-right: auto ;
+        margin-bottom: 20px;
     }
 
     /*PASARELA*/
@@ -475,6 +493,13 @@ ion-icon {
         padding-top: 0px;
     }
 
+        /*CONTACTO*/
+    #headerContacto{
+        margin-top: 60px;
+        margin-bottom: 20px;
+    }    
+
+
         /*MATINA*/
     .matinaTextOver{
         position: static;
@@ -522,6 +547,13 @@ ion-icon {
     .mediaSpacing{
         margin-top: 40px;
     }
+
+    /*CONTACTO*/
+    #headerContacto{
+        margin-top: 60px;
+        margin-bottom: 0px;
+    }    
+
 
     /*MATINA*/
     .matinaTextOver{

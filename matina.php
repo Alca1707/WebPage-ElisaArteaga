@@ -13,13 +13,15 @@
     <div class="container espaciado80 bodyFooter">
         <div class="row">
             <div class="clearfix">
-                <p id="matinaText" class="col-lg-3 col-md-5 col-sm-6 col-10 float-start">Diseño de blazer femenino con aplicación de pieza textil elaborada en telar de tapicería con gradación de color en tonos rosa neón a crema, elaborado en fibras acrílicas y algodón crudo. </p>
-                <img src="img/Matina-Boceto_08.svg" class="col-lg-3 col-md-5 col-sm-6 col-8 float-end" alt="">
+                <p id="matinaText" class="col-lg-3 col-md-5 col-sm-8 col-10 float-lg-start float-md-start">Diseño de blazer femenino con aplicación de pieza textil elaborada en telar de tapicería con gradación de color en tonos rosa neón a crema, elaborado en fibras acrílicas y algodón crudo. </p>
+                <img src="img/Matina-Boceto_08.svg" class="col-lg-3 col-md-5 col-sm-7 col-10 float-lg-end float-md-end" alt="">
             </div>
         </div>
+
         <div class="row">
             <p id="procesoMatina">Proceso</p>
         </div>
+        
         <div id="manualGallery" class="row rowMatina">
             <div class="manualGalleryItem"><img src="img/Matina_03.jpg" class="manualGalleryItem" alt=""><p>A.PROCESO DE TEJIDO</p></div>
             <div class="manualGalleryItem"><img src="img/Matina_04.jpg" class="manualGalleryItem" alt=""><p>B.PRIMERA PIEZA DE TEJIDO</p></div>
