@@ -189,6 +189,19 @@ ion-icon {
     margin-top: 24px;
 }
 
+#btnsfancy button{
+    background-color: white;
+}
+
+#btnsfancy button:first-child{
+    text-align: left;
+    border-bottom: 2px solid #FF4B5B;
+}
+
+#btnsfancy button:last-child{
+    text-align: right;
+}
+
 /*PDF VIEWER*/
 
 .pdfPorta{
@@ -224,6 +237,16 @@ ion-icon {
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+@media (max-width:768px){
+    #WONDERWARE{
+        background-image:url(../img/Carrusel_01_Tlaloquines.jpg);
+    }
+    
+    #WONDERWARE img{
+        visibility: hidden;
+    }
 }
 
 /**** VENENO ***/
@@ -327,6 +350,10 @@ ion-icon {
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+.negative{
+    margin-top: -9vw;
 }
 
 /*MEDIA QUERIES*/

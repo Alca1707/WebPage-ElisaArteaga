@@ -5,7 +5,9 @@
         include "menu.html";
     ?>
 
-    <img src="img/Wonderware_01.1.jpg" class="fullWidthImg" alt="">
+    <div id="WONDERWARE">
+        <img src="img/Wonderware_01.1.jpg" class="fullWidthImg" alt="">
+    </div>
     <div class="container espaciado80">
         <div class="row">
             <img src="img//Wonderware_logo.svg" class="titlesImgLittle col-lg-5" alt="">

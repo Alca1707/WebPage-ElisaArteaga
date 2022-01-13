@@ -7,8 +7,10 @@
 
     <div class="ImgMainBackground">
         <img src="img/tlaloquines_01.png" class="fullWidthImg" alt="">
-        <p class="col-lg-3"><b>DISEÑO EMOCIONAL</b><br><br>Juego de cuatro regaderas para plantas pequeñas dirigidas a personas que disfrutan de la jardinería.</p>
-        <p class="col-lg-3"><b>DETALLES TÉCNICOS</b><br><br>Piezas elaboradas en arcilla blanca. Cada pieza posee una configuración de agujeros en la base.</p>
+        <div class="row m-0 p-0">
+            <p class="col-lg-3 ms-5 ps-5 negative"><b>DISEÑO EMOCIONAL</b><br><br>Juego de cuatro regaderas para plantas pequeñas dirigidas a personas que disfrutan de la jardinería.</p>
+            <p class="col-lg-3 offset-5 me-0 pe-0 negative"><b>DETALLES TÉCNICOS</b><br><br>Piezas elaboradas en arcilla blanca. Cada pieza posee una configuración de agujeros en la base.</p>
+        </div>
     </div>
 
 
@@ -16,10 +18,10 @@
         <img src="img/TLALOQUINES_logo.svg" id="imgTlaloquines" class="col-lg-3" alt="">
     </div>
 
-    <div class="espaciado40">
+    <div class="espaciado40  container-fluid">
         <div class="row">
-            <img src="img/tlaloquines_02.jpg" class="col-lg-8" alt="">
-            <img src="img/tlaloquines_03.jpg" class="col-lg-4" alt="">
+            <img src="img/tlaloquines_02.jpg" class="col-lg-8 ps-0 ms-0" alt="">
+            <img src="img/tlaloquines_03.jpg" class="col-lg-4 pe-0 pe-0" alt="">
         </div>
     </div>
 

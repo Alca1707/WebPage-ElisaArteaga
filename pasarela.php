@@ -14,12 +14,12 @@
         </div>
     </div>
 
-    <div class="espaciado40">
+    <div class="espaciado40 container-fluid">
         <div class="row">
-            <img src="img/Pasarela_02.jpg" class="col-lg-3" alt="">
+            <img src="img/Pasarela_02.jpg" class="col-lg-3 ps-0" alt="">
             <img src="img/Pasarela_03.jpg" class="col-lg-3" alt="">
             <img src="img/Pasarela_04.jpg" class="col-lg-3" alt="">
-            <img src="img/Pasarela_05.jpg" class="col-lg-3" alt="">
+            <img src="img/Pasarela_05.jpg" class="col-lg-3 pe-0" alt="">
         </div>
     </div>
 

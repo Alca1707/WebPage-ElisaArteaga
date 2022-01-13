@@ -14,22 +14,24 @@
         <p id="redText" class="col-lg-3">Siento con el cuerpo y con el alma, aunque muchas veces lo oculte. Esta vez abriré puertas y ventanas, me desnudaré hasta que puedas ver mi interior, mi sangre, mi corazón. Todo mi ser vibrando, palpitando, liberando un torrente de emociones contenidas. </p>
     </div>
     
-    <div class="row">
-        <img src="img/Pulse_02.jpg" class="col-lg-4 noSpacingImg" alt="">
-        <img src="img/Pulse_04.jpg" class="col-lg-4 noSpacingImg" alt="">
-        <img src="img/Pulse_03.jpg" class="col-lg-4 noSpacingImg" alt="">
+    <div class="container-fluid">
+        <div class="row">
+            <img src="img/Pulse_02.jpg" class="col-lg-4 noSpacingImg" alt="">
+            <img src="img/Pulse_04.jpg" class="col-lg-4 noSpacingImg" alt="">
+            <img src="img/Pulse_03.jpg" class="col-lg-4 noSpacingImg" alt="">
+        </div>
     </div>
 
-    <div class="espaciado80">
+    <div class="espaciado80 container-fluid">
         <div class="row">
-            <img src="img/Pulse_05.jpg" class="col-lg-4" alt="">
+            <img src="img/Pulse_05.jpg" class="col-lg-4 ps-0" alt="">
             <p id="pulseDescription" class="col-lg-4">Colección de joyería conformada por 5 piezas: un Avant garde y 4 piezas comerciales, elaborada en latón con aplicación de textil y bordado de pedrería.<br><br>
                 Las diferentes piezas se unen a través de cristales rojos que representan la sangre y la conexión de las partes de un todo. 
                 <br><br>
                 La pieza central, el corazón, es el punto de unión donde converge todo y se concentra el punto focal del conjunto. El tassel representa esa vulnerabilidad que por 
                 fin puede ser expuesta, la emoción que se derrama.
                 </p>
-            <img src="img/Pulse_06.jpg" class="col-lg-4" alt="">
+            <img src="img/Pulse_06.jpg" class="col-lg-4 pe-0" alt="">
         </div>
     </div>
     

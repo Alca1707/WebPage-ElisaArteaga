@@ -14,18 +14,33 @@
                 Ha pasado el tiempo y esa candidez sigue impregnando cada visión, cada idea, cada emoción...<br><br>¡TE INVITO A CONOCER MI TRABAJO!
             </p>
         </div>
-
-        <div class="row rowProyectos">
-            <a href="tlaloquines.php" class="col-lg-3 "><img src="img/Proyectos_01.jpg" alt=""></a>
-            <a href="wonderware.php" class="col-lg-3 "><img src="img/Proyectos_03.jpg"  alt=""></a>
-            <a href="matina.php" class="col-lg-3"><img src="img/Proyectos_04.jpg"  alt=""></a>
-            <a href="eden.php" class="col-lg-3 "><img src="img/Proyectos_05.jpg"  alt=""></a>
+        <div id="btnsfancy" class="row">
+            <button type="button" class="btn btn-light col-lg-2" onclick="ProjectsButtons(this)" name="projects">PROYECTOS</button>
+            <button type="button" class="btn btn-light col-lg-3 offset-2" onclick="ProjectsButtons(this)" name="portafolio">PORTAFOLIO COMPLETO</button>
+            <button type="button" class="btn btn-light col-lg-2 offset-2" onclick="ProjectsButtons(this)" name="reel">REEL</button>
         </div>
 
-        <div class="row rowProyectos justify-content-center">
-            <a href="pasarela.php" class="col-lg-3"><img src="img/Proyectos_06.jpg" alt=""></a>
-            <a href="veneno.php" class="col-lg-3"><img src="img/Proyectos_07.jpg" alt=""></a>
-            <a href="pulse.php" class="col-lg-3"><img src="img/Proyectos_08.jpg" alt=""></a>
+        <div id="projects">
+            <div class="row rowProyectos">
+                <a href="tlaloquines.php" class="col-lg-3 "><img src="img/Proyectos_01.jpg" alt=""></a>
+                <a href="wonderware.php" class="col-lg-3 "><img src="img/Proyectos_03.jpg"  alt=""></a>
+                <a href="matina.php" class="col-lg-3"><img src="img/Proyectos_04.jpg"  alt=""></a>
+                <a href="eden.php" class="col-lg-3 "><img src="img/Proyectos_05.jpg"  alt=""></a>
+            </div>
+    
+            <div class="row rowProyectos justify-content-center">
+                <a href="pasarela.php" class="col-lg-3"><img src="img/Proyectos_06.jpg" alt=""></a>
+                <a href="veneno.php" class="col-lg-3"><img src="img/Proyectos_07.jpg" alt=""></a>
+                <a href="pulse.php" class="col-lg-3"><img src="img/Proyectos_08.jpg" alt=""></a>
+            </div>
+        </div>
+
+        <div id="portafolio" style="display: none;">
+            aqui va el portafolio
+        </div>
+
+        <div id="reel" style="display: none;">
+            aqui va el reel
         </div>
     </div>
     <?php
