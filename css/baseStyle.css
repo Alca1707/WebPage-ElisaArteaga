@@ -167,19 +167,19 @@ ion-icon {
 /*** CONTACTAME ***/
 #headerContacto{
     margin-top: 5%;
-    margin-bottom: 10%; 
+    margin-bottom: 5%; 
 }
 
 #textContact{
     display: block;
-    margin-bottom: auto;
-    margin-top: auto;
+    margin-bottom: 20px;
+    margin-top: 10%;
 }
 
 .verticalAling{
     display: block;
     margin-bottom: auto;
-    margin-top: auto;
+    margin-top: 10%;
 }
 
 /**** PROYECTOS SECTION ****/
@@ -331,6 +331,10 @@ ion-icon {
     left: 20%;
     transform: translate(-50%, -50%);
     font-weight: 600;
+}
+
+.rowMatina img{
+    width: 100%;
 }
 
 /*PASARELA SECTION*/

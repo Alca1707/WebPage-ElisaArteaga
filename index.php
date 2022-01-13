@@ -48,6 +48,7 @@
             <div class=""> 
               <img src="img/sobre mi-ELISA ARTEAGA_TXT.svg" class="titlesImg" alt="Sobre mi">
               <p class="description"><br><br>Hola, soy una diseñadora del producto artesanal con un amor por la intervención de superficies y los detalles, me apasiona la creación de productos que puedan hacer aflorar emociones y experiencias. Creo en el valor de los sueños y en la importancia de una dosis diaria de fantasía para afrontar el día a día. Deseo crear alianzas y desarrollar una comunidad alrededor de mujeres empoderadas y colectivos de artistas escénicos que traspasen fronteras. <br><br> Te invito a trabajar juntos, ¿Te animas? </p>              
+              <a href="Elisa-Arteaga_CV_SP .pdf" download="Elisa-Arteaga-CV"><img src="img/Boton_CV.png" class="col-lg-7 espaciado40" alt=""></a>
             </div>
             <div id="photoElisa">
               <img id="designerPhoto" src="img/Foto-elisa.png" width="400px" height="auto" alt="Elisa photo">
@@ -65,9 +66,7 @@
 
         <div id="concept">
           <img src="img/ONIRISCENCIA_TXT.svg" id="conceptImg" class="titlesImg" alt="Oniriscencia">
-          <p id="conceptText"> <br><br>En este mi ser que es mi mundo habita otro ser invisible que con frecuencia se apodera de mí. Se pasea por mis sueños más fantásticos aquellos a los que solo se accede a través del portal de la imaginación, estos sueños que provienen desde lo más profundo traen mensajes del espíritu, de ese mundo interior que ha sido heredado de generación en generación; bebe de mis emociones más profundas, las más intensas, aquellas que con frecuencia no muestro en público y se alimenta de mis experiencias más significativas. Se las devora y las derrama por mis ojos, por mi boca, por mis manos.
-            <br><br>Mi contraparte visible, parece tener la misión de lograr todo lo que es capaz de imaginar, siempre quiere más y lo quiere mejor. En esta relación simbiótica de sueño y realidad, mi mente, mis ojos, mis manos, mi cuerpo están al servicio de onírica para materializar sus visiones y a cambio ella mantiene viva mi consciencia. Juntas formamos una unidad indivisible que se regenera con cada idea que es traída a la vida en objetos, experiencias e historias que nos lleven a conectar con otros mundos.
-          </p>
+          <p id="conceptText"> <br><br>En este mi ser que es mi mundo habita otro ser invisible que con frecuencia se apodera de mí. Se pasea por mis sueños más fantásticos aquellos a los que solo se accede a través del portal de la imaginación, estos sueños que provienen desde lo más profundo traen mensajes del espíritu, de ese mundo interior que ha sido heredado de generación en generación.</p>
         </div>
 
         <?php

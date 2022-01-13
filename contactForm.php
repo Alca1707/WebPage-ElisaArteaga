@@ -56,7 +56,7 @@
                         <textarea class="form-control" aria-label="With textarea" name="Message"></textarea>
                     </div>
 
-                    <button type="submit" class="btn btn-primary">Enviar</button>
+                    <button type="submit" class="btn"><img src="img/Boton_ENVIAR.png" class="col-lg-6" alt=""></button>
                 </form>
             </div>
         </div>  

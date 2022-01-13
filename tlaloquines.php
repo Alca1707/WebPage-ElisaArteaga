@@ -5,7 +5,7 @@
         include "menu.html";
     ?>
 
-    <div class="ImgMainBackground">
+    <div class="ImgMainBackground row">
         <img src="img/tlaloquines_01.png" class="fullWidthImg" alt="">
         <div class="row m-0 p-0">
             <p class="col-lg-3 ms-5 ps-5 negative"><b>DISEÑO EMOCIONAL</b><br><br>Juego de cuatro regaderas para plantas pequeñas dirigidas a personas que disfrutan de la jardinería.</p>

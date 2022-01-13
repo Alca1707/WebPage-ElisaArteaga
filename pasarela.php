@@ -23,7 +23,7 @@
         </div>
     </div>
 
-    <div>
+    <div class="bodyFooter">
         <div  class="container col-lg-4 espaciado40">
             <p id="descriptionPasarela" >DESCRIPCIÓN <br>
                 Diseño de una colección cápsula conformada por 7 salidas (se confeccionaron 4 debido a la situación de pandemia); dirigida a empoderar a mujeres que aman la naturaleza, que abrazan la feminidad y masculinidad como aspectos indivisibles del ser.</p>
@@ -33,7 +33,7 @@
         <img src="img/Pasarela-carrusel_03.jpg" class="fullWidthImg espaciado80" alt="">
         <img src="img/Pasarela-carrusel_04.jpg" class="fullWidthImg espaciado80" alt="">
     </div>
-    
+
     <?php
         include "footer.html"
     ?>
