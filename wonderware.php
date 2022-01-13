@@ -28,12 +28,12 @@
         </div>
     </div>
 
-    <div id="wonderwareGallery" class="espaciado80">      
-            <img src="img//Wonderware_03.jpg" class="wonderwareGalleryItem" alt="">
-            <img src="img/Wonderware_04.jpg" class="wonderwareGalleryItem" alt="">
-            <img src="img/Wonderware_05.jpg" class="wonderwareGalleryItem" alt="">
-            <img src="img/Wonderware_06.jpg" class="wonderwareGalleryItem" alt="">
-            <img src="img/Wonderware_08.jpg" class="wonderwareGalleryItem" alt="">  
+    <div id="manualGallery" class="espaciado80">      
+            <img src="img//Wonderware_03.jpg" class="manualGalleryItem" alt="">
+            <img src="img/Wonderware_04.jpg" class="manualGalleryItem" alt="">
+            <img src="img/Wonderware_05.jpg" class="manualGalleryItem" alt="">
+            <img src="img/Wonderware_06.jpg" class="manualGalleryItem" alt="">
+            <img src="img/Wonderware_08.jpg" class="manualGalleryItem" alt="">  
     </div>
 
     <div class="container espaciado20">
