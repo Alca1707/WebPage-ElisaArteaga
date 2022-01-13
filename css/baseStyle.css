@@ -363,6 +363,14 @@ ion-icon {
 
 /* Small devices (landscape phones, 576px and up)*/
 @media (max-width: 576px) {
+    .espaciado80{
+        margin-top: 40px;
+    }
+
+    .mediaSpacing{
+        margin-top: 25px;
+    }
+
     #cvButton{
         display: block;
         margin-left: auto;
@@ -373,15 +381,61 @@ ion-icon {
     #pasarelaText{
         margin-top: 25px;
     }
+
+    /*VENENO*/
+    .venenoMainText{
+        margin-top: 40px;
+        position: static;
+        top: 0%;
+        left: 25%;
+        transform: translate(0%, 0%);
+    }
+
+    #descriptionVeneno{
+        margin-top: 15px;
+    }
+
+    #pinkVenenoText{
+        margin-top: 100px;
+    }
+
 }
 
 /* Medium devices (tablets, 768px and up)*/
 @media (max-width: 768px) {
+    .espaciado80{
+        margin-top: 40px;
+    }
 
+    .mediaSpacing{
+        margin-top: 35px;
+    }
+
+    .mediaSpacingBottom{
+        margin-bottom: 30px;
+    }
+
+    /*VENENO*/
+    .venenoMainText{
+        position: static;
+        margin-top: 50px;
+        text-align: center;
+        top: 0%;
+        left: 0%;
+        transform: translate(0%, 0%);       
+    }
 }
 
 /* Large devices (desktops, 992px and up)*/
 @media (max-width: 992px) {
+    .espaciado80{
+        margin-top: 60px;
+    }
+
+    .mediaSpacing{
+        margin-top: 40px;
+    }
+
     #designerPhoto{
         width: 300px;
     }
@@ -390,11 +444,32 @@ ion-icon {
         margin-top: 50px;
         margin-bottom: 30px;
     }
+
+        /*VENENO*/
+    .venenoMainText{
+        text-align: center;
+        position: static;
+        top: 0%;
+        left: 0%;
+        margin-top: 50px;
+        transform: translate(0%, 0%);
+    }
+
+    #venenoText{
+        margin-top: 20px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
 }
 
 /* X-Large devices (large desktops, 1200px and up)*/
 @media (max-width: 1200px) {
+    /*VENENO*/
+    #venenoText{
+        margin-top: 40px;
 
+    }
 }
 
 /* XX-Large devices (larger desktops, 1400px and up)*/
