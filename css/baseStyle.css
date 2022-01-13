@@ -63,6 +63,7 @@ ion-icon {
 #photoElisa{
     text-align: center;
 }
+
 #aboutMe{
     padding-top: 15vh;
     padding-bottom: 50px;
@@ -238,13 +239,19 @@ ion-icon {
     margin-right: auto;
 }
 
+#alingVertical{
+    display: block;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
 @media (max-width:768px){
     #WONDERWARE{
-        background-image:url(../img/Carrusel_01_Tlaloquines.jpg);
+      /*  background-image:url(../img/Carrusel_01_Tlaloquines.jpg);*/
     }
     
     #WONDERWARE img{
-        visibility: hidden;
+        /*visibility: hidden;*/
     }
 }
 
@@ -377,6 +384,16 @@ ion-icon {
         margin-right: auto;
     }
 
+    /*MENU*/
+    #menu{
+        background-image: url(../img/header_movil_01.jpg); 
+        text-align: center;
+    }
+
+    a.nav-link{
+        padding-top: 0px;
+    }
+
     /*PASARELA*/
     #pasarelaText{
         margin-top: 25px;
@@ -399,6 +416,17 @@ ion-icon {
         margin-top: 100px;
     }
 
+    /*WONDERWARE*/
+    .noMarginBottom{
+        margin-bottom: 0px;
+    }
+
+    .wonderwareGalleryItem{
+        width: 175px;
+        height: auto;
+        padding: 6.5px !important;
+    }
+
 }
 
 /* Medium devices (tablets, 768px and up)*/
@@ -413,6 +441,16 @@ ion-icon {
 
     .mediaSpacingBottom{
         margin-bottom: 30px;
+    }
+
+    /*MENU*/
+    #menu{
+        background-image: url(../img/header_movil_01.jpg); 
+        text-align: center;
+    }
+
+    a.nav-link{
+        padding-top: 0px;
     }
 
     /*VENENO*/
@@ -433,6 +471,11 @@ ion-icon {
     #pulseDescription{
         margin-top: 40px;
     }
+
+    /*WONDERWARE*/
+    .noMarginBottom{
+        margin-bottom: 0px;
+    }
 }
 
 /* Large devices (desktops, 992px and up)*/
@@ -443,6 +486,16 @@ ion-icon {
 
     .mediaSpacing{
         margin-top: 40px;
+    }
+
+        /*MENU*/
+    #menu{
+        background-image: url(../img/header_movil_01.jpg); 
+        text-align: center;
+    }
+
+    a.nav-link{
+        padding-top: 0px;
     }
 
     #designerPhoto{
@@ -474,6 +527,12 @@ ion-icon {
     #pulseLogo{
         width: 110px;
     }
+
+    /*WONDERWARE*/
+    .noMarginBottom{
+        margin-bottom: 0px;
+    }
+    
 }
 
 /* X-Large devices (large desktops, 1200px and up)*/
