@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <link rel="stylesheet" type="text/css" href="css/baseStyle.css">
-        <link rel="stylesheet" href="css/bootstrap/bootstrap.min.css">
-    </head>
+    <?php
+        include "head.html";
+        include "menu.html";
+    ?>
 
     <img src="img/Pasarela_01.jpg" class="fullWidthImg" alt="">
 
@@ -34,4 +34,7 @@
         <img src="img/Pasarela-carrusel_04.jpg" class="fullWidthImg espaciado80" alt="">
     </div>
     
+    <?php
+        include "footer.html"
+    ?>
 </html>

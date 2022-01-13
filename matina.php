@@ -1,16 +1,16 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <link rel="stylesheet" type="text/css" href="css/baseStyle.css">
-        <link rel="stylesheet" href="css/bootstrap/bootstrap.min.css">
-    </head>
+    <?php
+        include "head.html";
+        include "menu.html";
+    ?>
 
     <div class="ImgMainBackground">
         <img src="img/Matina_01.jpg" class="fullWidthImg" alt="">
         <p class="col-lg-2 matinaTextOver">Un nuevo comienzo, el nacimiento de un nuevo día que surge entre las nubes y trae esa sensación de paz, de pureza, de posibilidad. Tierno arcoíris que llena de energía el cuerpo y el alma.</p>
     </div>
 
-    <div class="container espaciado80">
+    <div class="container espaciado80 bodyFooter">
         <div class="row">
             <div class="clearfix">
                 <p id="matinaText" class="col-lg-3 float-start">Diseño de blazer femenino con aplicación de pieza textil elaborada en telar de tapicería con gradación de color en tonos rosa neón a crema, elaborado en fibras acrílicas y algodón crudo. </p>
@@ -28,4 +28,8 @@
             <div class="col-lg-2"><img src="img/Matina_07.jpg" alt=""><p>E.DETALLE DEL TEJIDO</p></div>       
         </div>
     </div>
+
+    <?php
+        include "footer.html"
+    ?>
 </html>

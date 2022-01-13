@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <link rel="stylesheet" type="text/css" href="css/baseStyle.css">
-        <link rel="stylesheet" href="css/bootstrap/bootstrap.min.css">
-    </head>
+    <?php
+        include "head.html";
+        include "menu.html";
+    ?>
+
 
     <div class="ImgMainBackground">
         <div class="col-lg-4 venenoMainText">
@@ -27,7 +28,7 @@
         
     </div>
 
-    <div class="espaciado80">
+    <div class="espaciado80 bodyFooter">
         <div class="clearfix">
             <img src="img/Veneno_03.jpg" class="col-lg-8 float-end" alt="">
             <div class="col-lg-2 offset-lg-1">
@@ -41,4 +42,8 @@
             </div>           
         </div>
     </div>
+
+    <?php
+        include "footer.html"
+    ?>
 </html>

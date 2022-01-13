@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <link rel="stylesheet" type="text/css" href="css/baseStyle.css">
-        <link rel="stylesheet" href="css/bootstrap/bootstrap.min.css">
-    </head>
+    <?php
+        include "head.html";
+        include "menu.html";
+    ?>
 
     <div class="containerFooter">
         <img src="img/Pulse_01.jpg" class="fullWidthImg" alt="">
@@ -34,7 +34,12 @@
     </div>
     
 
-    <div id="" class="espaciado80 pulseLastImg">
+    <div class="espaciado80 pulseLastImg bodyFooter">
         <img src="img/Pulse_07.jpg" id="pulse07Img" alt="">
     </div>
+
+    <?php
+        include "footer.html"
+    ?>
+    
 </html>

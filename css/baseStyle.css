@@ -60,6 +60,9 @@ ion-icon {
 }
 
 /**** SECTION ABOUT ME****/
+#photoElisa{
+    text-align: center;
+}
 #aboutMe{
     padding-top: 15vh;
     padding-bottom: 50px;
