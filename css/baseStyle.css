@@ -197,15 +197,30 @@ ion-icon {
     position: relative;
 }
 
-.imgHover{
-    display: ;
-    position: absolute;
-    transform: translate(0%, -100%);
+.rowProyectos a{
+    position: relative;
 }
 
-#projects .rowProyectos img:hover{
-    display: block;
+.rowProyectos a img:last-child{
+    z-index: 1;
+}
 
+.rowProyectos a img:first-child{
+    width: 100%;
+    height: 100%;
+    z-index: 3;
+    opacity: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.rowProyectos a img:first-child:hover{
+    opacity: 1;
+}
+
+.rowProyectos a img:first-child:hover + img:last-child{
+    filter: brightness(50%) saturate(125%);
 }
 
 #btnsfancy button{
@@ -221,10 +236,6 @@ ion-icon {
 
 #btnsfancy button:last-child{
     text-align: right;
-}
-
-#projects a img:hover{
-    filter: grayscale(70%);
 }
 
 /*PDF VIEWER*/
