@@ -393,6 +393,20 @@ ion-icon {
     margin-top: -9vw;
 }
 
+/*EDEN PAGE*/
+#edenText{
+    font-weight: 600;
+    color: #AB8F7D;
+}
+
+.boldText{
+    font-weight: 600;
+}
+
+#hiddenCol{
+    display: none;
+}
+
 /*MEDIA QUERIES*/
 
 /* Small devices (landscape phones, 576px and up)*/
@@ -469,6 +483,11 @@ ion-icon {
         margin-top: 100px;
     }
 
+    /*EDEN PAGE*/
+    #fixableCol{
+        display: none;
+    }
+
     /*WONDERWARE*/
     .noMarginBottom{
         margin-bottom: 0px;
@@ -534,6 +553,11 @@ ion-icon {
         margin-bottom: 0px;
         margin-left:auto;
         margin-right: auto;
+    }
+
+        /*EDEN PAGE*/
+    #fixableCol{
+        display: none;
     }
 
     /*VENENO*/

@@ -27,30 +27,30 @@
                     <img src="img/Proyectos_01.jpg" alt="">
                 </a>
                 <a href="wonderware.php" class="col-lg-3 col-md-3 col-sm-3 col-3 p-2">
-                    <img src="img/Tlaloquines-hover.png" alt="">
+                    <img src="img/wonderware.png" alt="">
                     <img src="img/Proyectos_03.jpg"  alt="">
                 </a>
                 <a href="matina.php" class="col-lg-3 col-md-3 col-sm-3 col-3 p-2">
-                    <img src="img/Tlaloquines-hover.png" alt="">
+                    <img src="img/matina.png" alt="">
                     <img src="img/Proyectos_04.jpg"  alt="">
                 </a>
                 <a href="eden.php" class="col-lg-3 col-md-3 col-sm-3 col-3 p-2">
-                    <img src="img/Tlaloquines-hover.png" alt="">
+                    <img src="img/eden.png" alt="">
                     <img src="img/Proyectos_05.jpg"  alt="">
                 </a>
             </div>
     
             <div class="row rowProyectos justify-content-center">
                 <a href="pasarela.php" class="col-lg-3 col-md-3 col-sm-3 col-3 p-2">
-                    <img src="img/Tlaloquines-hover.png" alt="">
+                    <img src="img/pasarela.png" alt="">
                     <img src="img/Proyectos_06.jpg" alt="">
                 </a>
                 <a href="veneno.php" class="col-lg-3 col-md-3 col-sm-3 col-3 p-2">
-                    <img src="img/Tlaloquines-hover.png" alt="">
+                    <img src="img/veneno.png" alt="">
                     <img src="img/Proyectos_07.jpg" alt="">
                 </a>
                 <a href="pulse.php" class="col-lg-3 col-md-3 col-sm-3 col-3 p-2">
-                    <img src="img/Tlaloquines-hover.png" alt="">
+                    <img src="img/Pulse.png" alt="">
                     <img src="img/Proyectos_08.jpg" alt="">
                 </a>
             </div>
