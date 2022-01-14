@@ -57,11 +57,11 @@
         </div>
 
         <div id="portafolio" style="display: none;">
-            <iframe src="Elisa-Arteaga_CV_SP .pdf" frameBorder="0" scrolling="no" height="100%" width="100%" allowfullscreen></iframe>
+            <iframe src="Elisa-Arteaga Portafolio.pdf" title="Portafolio Elisa Arteaga" frameBorder="0" scrolling="no" height="100%" width="100%" allowfullscreen></iframe>
         </div>
 
         <div id="reel" style="display: none;">
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/vZdJS4IfFb4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/Gx-fSZY_CIA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
     </div>
     <?php
