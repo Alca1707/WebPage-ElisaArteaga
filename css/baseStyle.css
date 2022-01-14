@@ -91,6 +91,10 @@ ion-icon {
     transform: translate(-70%, -50%);
 }
 
+#hiddenImg{
+    display: none;
+}
+
 /****CONCEPT SECTION****/
 
 #concept{
@@ -435,6 +439,25 @@ ion-icon {
         padding-top: 0px;
     }
 
+    /*INSPIRACIÓN*/
+    #bigScreenImg{
+        display: none;
+    }
+
+    #hiddenImg{
+        display: block;
+        position: absolute;
+        top: 30%;
+        left: 60%;
+        transform: translate(-70%, -50%);
+    }
+
+    #inspirationText{
+        position: static;
+        transform: translate(0%, 0%);
+    }
+
+
     /*CONTACTO*/
     #headerContacto{
         margin-top: 50px;
@@ -484,7 +507,7 @@ ion-icon {
     }
 
     /*EDEN PAGE*/
-    #fixableCol{
+    .fixableCol{
         display: none;
     }
 
@@ -540,11 +563,29 @@ ion-icon {
         padding-top: 0px;
     }
 
-        /*CONTACTO*/
+    /*CONTACTO*/
     #headerContacto{
         margin-top: 60px;
         margin-bottom: 20px;
-    }    
+    }  
+
+    /*INSPIRACIÓN*/
+    #bigScreenImg{
+        display: none;
+    }
+
+    #hiddenImg{
+        display: block;
+        position: absolute;
+        top: 30%;
+        left: 60%;
+        transform: translate(-70%, -50%);
+    }
+
+    #inspirationText{
+        position: static;
+        transform: translate(0%, 0%);
+    }
 
 
         /*MATINA*/
@@ -563,6 +604,10 @@ ion-icon {
         /*EDEN PAGE*/
     #fixableCol{
         display: none;
+    }
+
+    #hiddenCol{
+        display: flex;
     }
 
     /*VENENO*/

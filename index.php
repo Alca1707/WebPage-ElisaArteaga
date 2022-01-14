@@ -47,7 +47,7 @@
           <div class="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-2 ">
             <div class=""> 
               <img src="img/sobre mi-ELISA ARTEAGA_TXT.svg" class="titlesImg" alt="Sobre mi">
-              <p class="description"><br><br>Hola, soy una diseñadora del producto artesanal con un amor por la intervención de superficies y los detalles, me apasiona la creación de productos que puedan hacer aflorar emociones y experiencias. Creo en el valor de los sueños y en la importancia de una dosis diaria de fantasía para afrontar el día a día. Deseo crear alianzas y desarrollar una comunidad alrededor de mujeres empoderadas y colectivos de artistas escénicos que traspasen fronteras. <br><br> Te invito a trabajar juntos, ¿Te animas? </p>              
+              <p class="description col-10 col-sm-10"><br><br>Hola, soy una diseñadora del producto artesanal con un amor por la intervención de superficies y los detalles, me apasiona la creación de productos que puedan hacer aflorar emociones y experiencias. Creo en el valor de los sueños y en la importancia de una dosis diaria de fantasía para afrontar el día a día. Deseo crear alianzas y desarrollar una comunidad alrededor de mujeres empoderadas y colectivos de artistas escénicos que traspasen fronteras. <br><br> Te invito a trabajar juntos, ¿Te animas? </p>              
               <a href="Elisa-Arteaga_CV_SP .pdf" download="Elisa-Arteaga-CV"><img src="img/Boton_CV.png" class="col-lg-7 col-md-5 col-sm-6 col-7 espaciado40" alt=""></a>
             </div>
             <div id="photoElisa" class="justify-content-center">
@@ -58,10 +58,11 @@
 
         <div id="inspiration">
           <img src="img/Inspiracion_background.jpg" class="fullWidthImg" alt="Inspiración">
+          <img id="hiddenImg" src="img/mi inspiración_TXT.svg" class="titlesImg" alt="Inspiración">
           <div id="inspirationText"> 
-            <img src="img/mi inspiración_TXT.svg" class="titlesImg" alt="Inspiración">
-            <p><br><br>Como diseñadora encuentro inspiración en experiencias y sensaciones, historias y mitologías. Es por ello que la naturaleza, la historia y la investigación son mis principales musas. En mi proceso creativo, encuentro en la experimentación y la intervención de superficies el medio para expresar todo aquello que no puedo decir con palabras.          </p>
-          </div>         
+            <img id="bigScreenImg" src="img/mi inspiración_TXT.svg" class="titlesImg" alt="Inspiración">
+            <p id="inspoText" class="col-10 col-sm-9 ms-5 ms-xl-0 ms-lg-0 ms-md-0 mb-5 mb-xl-0 mb-lg-0 mb-md-0"><br><br>Como diseñadora encuentro inspiración en experiencias y sensaciones, historias y mitologías. Es por ello que la naturaleza, la historia y la investigación son mis principales musas. En mi proceso creativo, encuentro en la experimentación y la intervención de superficies el medio para expresar todo aquello que no puedo decir con palabras.          </p>        
+             </div>         
         </div>
 
         <div id="concept" class="">

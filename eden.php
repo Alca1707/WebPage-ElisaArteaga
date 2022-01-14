@@ -39,7 +39,7 @@
 
             <div class="col-lg-7 col-md-7 col-sm-7 col-6 pe-0">
                 <div class="row">
-                    <div id="fixableCol"class="col-lg-4 col-md-4 col-sm-4 col-4">
+                    <div class="col-lg-4 col-md-4 col-sm-4 col-4 fixableCol">
                         <div class="row">
                             <img src="img/Eden_07.jpg" class="col-lg-12 col-md-12 col-sm-12 col-12 m-0 p-0 pb-2 pe-2 " alt="">
                         </div>
@@ -58,7 +58,7 @@
                         <br><br>DIMENSIONES:<br><br> módulo - 4.67 x 6.43” <br>dimensión máxima para desarrollo de tela:<br> rollo de 500 m de largo x 60” de ancho</p>
                 </div>
 
-                <div id="fixableCol" class="row m-0 p-0">
+                <div class="row m-0 p-0 fixableCol">
                     <img src="img/Eden_08.jpg" class="col-lg-12 col-md-10 col-sm-11 col-12 m-0 p-0" alt="">
                 </div>               
             </div>
