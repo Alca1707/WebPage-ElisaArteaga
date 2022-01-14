@@ -184,25 +184,29 @@ ion-icon {
 
 /**** PROYECTOS SECTION ****/
 
-.rowProyectos img{
+#projects .rowProyectos img{
     width: 100%;
     margin-top: 8px;
-    position: relative;
 }
 
 #projects{
     margin-top: 30px;
 }
 
-/*.imgHover{
+.rowProyectos{
+    position: relative;
+}
+
+.imgHover{
     display: ;
     position: absolute;
     transform: translate(0%, -100%);
 }
 
-#projects .rowProyectos a img:hover{
+#projects .rowProyectos img:hover{
     display: block;
-}*/
+
+}
 
 #btnsfancy button{
     background-color: white;
@@ -546,6 +550,15 @@ ion-icon {
     }
 
     /*TLALOQUINES*/
+    .negative{
+        padding: 0px !important;
+        margin: 0px !important;
+        margin-top: 30px !important;
+    }
+
+    #tlaloquinesImgLarge{
+        position: block;
+    }
 }
 
 /* Large devices (desktops, 992px and up)*/
