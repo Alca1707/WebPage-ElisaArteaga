@@ -141,6 +141,9 @@ ion-icon {
     text-align: center;
 }
 
+#footerCont{
+    background-image: url(../img/Footer.jpg); 
+}
 .containerText{
     position: absolute;
     top: 50%;
@@ -149,23 +152,15 @@ ion-icon {
 }
 
 #logoFooter{
-    width: 15%;
+    width: 80px;
 }
 
 .footerImg{
-    width: 10%;
+   width: 60px;
 }
 
 .textFooter{
-    text-transform: uppercase;
-    color: white;
-    margin-bottom: 0px;
-}
-
-#textFooterCredits{
-    padding-top: 4%;
-    color: white;
-    margin-bottom: 0px;
+    color: white;;
 }
 
 /*** CONTACTAME ***/
@@ -257,16 +252,21 @@ ion-icon {
     height: 100%;
   }
 
-/*PDF VIEWER*/
-
-.pdfPorta{
-    margin: auto;
-    padding: 0px;
-    display: block;
+  #portafolio{
+    margin-top: 30px;
+    position: relative;
     width: 100%;
-    height: 100vh;
+    padding-bottom: 56.25%; 
+    height: 0;
+  }
+  #portafolio iframe{
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
     border-radius: 20px;
-}
+  }
 
 /* WONDERWARE TEXT */
 #titlesImgLittle{

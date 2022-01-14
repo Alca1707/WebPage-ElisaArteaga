@@ -57,9 +57,7 @@
         </div>
 
         <div id="portafolio" style="display: none;">
-            <iframe
-                src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://issuu.com/elisa-arteaga/docs/elisa_arteaga_portafolio_2022#toolbar=0&scrollbar=0"
-                frameBorder="0" scrolling="auto" height="100%" width="100%"></iframe>
+            <iframe src="Elisa-Arteaga_CV_SP .pdf" frameBorder="0" scrolling="no" height="100%" width="100%" allowfullscreen></iframe>
         </div>
 
         <div id="reel" style="display: none;">

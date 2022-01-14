@@ -46,8 +46,8 @@
         <div id="aboutMe" class="container">
           <div class="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-2 ">
             <div class=""> 
-              <img src="img/sobre mi-ELISA ARTEAGA_TXT.svg" class="titlesImg" alt="Sobre mi">
-              <p class="description col-10 col-sm-10"><br><br>Hola, soy una diseñadora del producto artesanal con un amor por la intervención de superficies y los detalles, me apasiona la creación de productos que puedan hacer aflorar emociones y experiencias. Creo en el valor de los sueños y en la importancia de una dosis diaria de fantasía para afrontar el día a día. Deseo crear alianzas y desarrollar una comunidad alrededor de mujeres empoderadas y colectivos de artistas escénicos que traspasen fronteras. <br><br> Te invito a trabajar juntos, ¿Te animas? </p>              
+              <img src="img/sobre mi-ELISA ARTEAGA_TXT.svg" class="titlesImg mb-5" alt="Sobre mi">
+              <p class="description col-10 col-sm-10">Hola, soy una diseñadora del producto artesanal con un amor por la intervención de superficies y los detalles, me apasiona la creación de productos que puedan hacer aflorar emociones y experiencias. Creo en el valor de los sueños y en la importancia de una dosis diaria de fantasía para afrontar el día a día. Deseo crear alianzas y desarrollar una comunidad alrededor de mujeres empoderadas y colectivos de artistas escénicos que traspasen fronteras. <br><br> Te invito a trabajar juntos, ¿Te animas? </p>              
               <a href="Elisa-Arteaga_CV_SP .pdf" download="Elisa-Arteaga-CV"><img src="img/Boton_CV.png" class="col-lg-7 col-md-5 col-sm-6 col-7 espaciado40" alt=""></a>
             </div>
             <div id="photoElisa" class="justify-content-center">
