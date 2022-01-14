@@ -24,6 +24,10 @@
                     <img src="img/Eden_05.jpg" class="col-lg-6 col-md-6 col-sm-6 col-6 m-0 p-0 pb-2 pe-2"alt="">
                     <img src="img/Eden_06.jpg" class="col-lg-6 col-md-6 col-sm-6 col-6 m-0 p-0 pb-2 pe-2"  alt="">
                 </div>
+                <div id="hiddenCol" class="row">
+                    <img src="img/Eden_07.jpg" class="col-lg-6 col-md-6 col-sm-6 col-6 m-0 p-0 pb-2 pe-2"alt="">
+                    <img src="img/Eden_04.jpg" class="col-lg-6 col-md-6 col-sm-6 col-6 m-0 p-0 pb-2 pe-2"  alt="">
+                </div>
                 <div class="row">
                     <img src="img/Eden_02.jpg" class="col-lg-12 col-md-12 col-sm-12 col-12 m-0 p-0 pb-2 pe-2" alt="">
                 </div>
@@ -31,14 +35,11 @@
                     <img src="img/Eden_10.jpg" class="col-lg-6 col-md-6 col-sm-6 col-6 m-0 p-0 pe-2 pb-2" alt="">
                     <img src="img/Eden_09.jpg" class="col-lg-6 col-md-6 col-sm-6 col-6 m-0 p-0 pe-2 pb-2" alt="">
                 </div>
-                <div id="hiddenCol" class="row justify-content">
-                    <img src="img/Eden_08.jpg" class="col-sm-5 col-7" alt="">
-                </div>
             </div>
 
             <div class="col-lg-7 col-md-7 col-sm-7 col-6 pe-0">
                 <div class="row">
-                    <div class="col-lg-4 col-md-4 col-sm-4 col-4">
+                    <div id="fixableCol"class="col-lg-4 col-md-4 col-sm-4 col-4">
                         <div class="row">
                             <img src="img/Eden_07.jpg" class="col-lg-12 col-md-12 col-sm-12 col-12 m-0 p-0 pb-2 pe-2 " alt="">
                         </div>
@@ -46,7 +47,7 @@
                             <img src="img/Eden_04.jpg" class="col-lg-12 col-md-12 col-sm-12 col-12 m-0 p-0 pe-2" alt="">
                         </div>
                     </div>
-                    <div class="col-lg-8 col-md-8 col-sm-8 col-8 p-0 m-0">
+                    <div class="col-lg-8 col-md-8 col-sm-12 col-11 p-0 m-0">
                         <img src="img/Eden_03.jpg" class="col-lg-12 col-md-12 col-sm-12 col-12" alt="">
                     </div>
                 </div>
@@ -58,7 +59,7 @@
                 </div>
 
                 <div id="fixableCol" class="row m-0 p-0">
-                    <img src="img/Eden_08.jpg" class="col-lg-12 col-md-10 m-0 p-0" alt="">
+                    <img src="img/Eden_08.jpg" class="col-lg-12 col-md-10 col-sm-11 col-12 m-0 p-0" alt="">
                 </div>               
             </div>
         </div>

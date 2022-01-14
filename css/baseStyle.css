@@ -488,6 +488,11 @@ ion-icon {
         display: none;
     }
 
+    #hiddenCol{
+        display: flex;
+    }
+
+
     /*WONDERWARE*/
     .noMarginBottom{
         margin-bottom: 0px;
