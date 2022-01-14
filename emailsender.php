@@ -9,7 +9,7 @@ try{
     
     $cabeceras = "From: ". $Name ." <". $Email .">" . "\r\n";
     
-    $To = "HELLO@ELISAARTEAGA.COM";
+    $To = "hello@elisaarteaga.com";
     $Mensaje = $Message;
     
     $Mensaje .= "\n\n";

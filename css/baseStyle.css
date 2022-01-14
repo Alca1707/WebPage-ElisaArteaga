@@ -795,9 +795,9 @@ ion-icon {
     border-radius: 100vw;
 }
 
-@supports(scrollbar color: red blue){
+@supports (scrollbar-color: red blue){
     *{
-        scrollbar-color: #f1f1f1 #b1b1b1
+        scrollbar-color: #f1f1f1 #b1b1b1;
         scrollbar-width: auto;
     }
 }
