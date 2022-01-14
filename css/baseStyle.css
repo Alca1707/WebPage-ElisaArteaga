@@ -778,3 +778,26 @@ ion-icon {
             transform: translate(0%, 0%);
         }*/
 }
+
+/*SCROLL BAR*/
+::-webkit-scrollbar{
+    width: 0.5em;
+}
+
+::-webkit-scrollbar-track{
+    color: #f1f1f1;
+    border-radius: 100vw;
+    margin-block: .3em;
+}
+
+::-webkit-scrollbar-thumb{
+    background-color: #b1b1b1 ;
+    border-radius: 100vw;
+}
+
+@supports(scrollbar color: red blue){
+    *{
+        scrollbar-color: #f1f1f1 #b1b1b1
+        scrollbar-width: auto;
+    }
+}
